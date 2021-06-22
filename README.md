@@ -543,15 +543,13 @@ below.
 - **THRESHOLD**: Classification threshold for prediction
 
 ## Contact
-**Matt Ross**  
-Manager, Artificial Intelligence  
-Information Technology Services 
-City Manager’s Office 
-The Corporation of the City of London  
-201 Queens Ave. Suite 300, London, ON. N6A 1J1  
+**Mohcine Madkour**  
+Senior Data Scientist
+Cummins Inc
+Personel Email: Mohcine.Madkour@Gmail.com
 
-**Blake VanBerlo**  
-Data Scientist  
-City of London Municipal Artificial Intelligence Applications Lab  
-C: blake@vanberloconsulting.com
-# Chest-X-ray-Covid-DeTect-InterPret
+**Meriam Es-Salhi**  
+Medical Doctor
+UI Health
+Personel Email: M.es.salhi.meriam@gmail.com 
+
