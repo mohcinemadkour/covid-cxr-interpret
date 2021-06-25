@@ -110,14 +110,14 @@ global effort of identifying and treating cases of COVID-19. This model is a pro
    depicting the change in performance metrics throughout the training
    process (such as the example below) are available in the _SCALARS_
    tab of TensorBoard.  
-   ![alt text](documents/readme_images/tensorboard_loss.png "Loss vs
+   ![alt text](tensorboard_loss.png "Loss vs
    Epoch")  
    You can also visualize the trained model's performance on the test
    set. See below for an example of the ROC Curve and Confusion Matrix
    based on test set predictions. In our implementation, these plots are
    available in the _IMAGES_ tab of TensorBoard.  
-   ![alt text](documents/readme_images/roc_example.PNG "ROC Curve")
-   ![alt text](documents/readme_images/cm_example.PNG "Confusion
+   ![alt text](roc_example.PNG "ROC Curve")
+   ![alt text](cm_example.PNG "Confusion
    Matrix")
 
 ## Binary vs. Multi-class Models
@@ -208,13 +208,13 @@ are explanations of a couple of the multi-class classifier's
 predictions. Green regions and red regions identify superpixels that
 most contributed to and against the predicted class respectively.
 
-![alt text](documents/readme_images/LIME_example0.PNG "Sample LIME
+![alt text](LIME_example0.PNG "Sample LIME
 explanation #1")  
-![alt text](documents/readme_images/LIME_example1.PNG "Sample LIME
+![alt text](LIME_example1.PNG "Sample LIME
 explanation #2")  
-![alt text](documents/readme_images/LIME_example2.PNG "Sample LIME
+![alt text](LIME_example2.PNG "Sample LIME
 explanation #3")  
-![alt text](documents/readme_images/LIME_example3.PNG "Sample LIME
+![alt text](LIME_example3.PNG "Sample LIME
 explanation #4")
 
 ### Grad-CAM Explanations
@@ -237,9 +237,9 @@ in this repository are as follows:
    _original-filename_gradcamp_yyyymmdd-hhmmss.png_. See below for
    examples of this graphic.
 
-![alt text](documents/readme_images/Grad-CAM_example0.PNG "Sample
+![alt text](Grad-CAM_example0.PNG "Sample
 GradCAM explanation #1")  
-![alt text](documents/readme_images/Grad-CAM_example1.PNG "Sample
+![alt text](Grad-CAM_example1.PNG "Sample
 GradCAM explanation #2")
 
 ## Train multiple models and save the best one
